@@ -63,17 +63,17 @@ API_URL = "http://localhost:2005"
 
 <table>
   <tr>
-    <td valign="center"><img src="./src/assets/image/BlanjaRN-1.png" height="400px" width="225px"></td>
-    <td valign="center"><img src="./src/assets/image/BlanjaRN-2.png" height="400px" width="225px"></td>
-    <td valign="center"><img src="./src/assets/image/BlanjaRN-3.png" height="400px" width="225px"></td>
+    <td valign="center"><img src="./src/assets/image/BlanjaRN-1.jpg" height="400px" width="225px"></td>
+    <td valign="center"><img src="./src/assets/image/BlanjaRN-2.jpg" height="400px" width="225px"></td>
+    <td valign="center"><img src="./src/assets/image/BlanjaRN-3.jpg" height="400px" width="225px"></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td valign="center"><img src="./src/assets/image/BlanjaRN-4.png" height="400px" width="225px"></td>
-    <td valign="center"><img src="./src/assets/image/BlanjaRN-5.png" height="400px" width="225px"></td>
-    <td valign="center"><img src="./src/assets/image/BlanjaRN-6.png" height="400px" width="225px"></td>
+    <td valign="center"><img src="./src/assets/image/BlanjaRN-4.jpg" height="400px" width="225px"></td>
+    <td valign="center"><img src="./src/assets/image/BlanjaRN-5.jpg" height="400px" width="225px"></td>
+    <td valign="center"><img src="./src/assets/image/BlanjaRN-6.jpg" height="400px" width="225px"></td>
   </tr>
 </table>
 
