@@ -1,4 +1,4 @@
-# Blanja Web <img src="https://img.shields.io/badge/Build%20with-React%20Native-61dbfb?style=popout&logo=react">
+# Blanja Mobile <img src="https://img.shields.io/badge/Build%20with-React%20Native-61dbfb?style=popout&logo=react">
 
 <div align="center">
     <img width="250" src="./src/assets/image/logo.png">
